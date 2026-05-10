@@ -1,1 +1,4 @@
-FORWARD\nBACKWARD\nLEFT\nRIGHT\nSTOP
+Forward
+Backward
+Right
+Left
