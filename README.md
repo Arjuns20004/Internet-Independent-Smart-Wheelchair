@@ -1,14 +1,6 @@
 # ♿ Internet-Independent Smart Wheelchair
 
-<div align="center">
 
-![ESP32](https://img.shields.io/badge/ESP32-Embedded-blue?style=for-the-badge\&logo=espressif)
-![Arduino](https://img.shields.io/badge/Arduino-UNO-success?style=for-the-badge\&logo=arduino)
-![IoT](https://img.shields.io/badge/IoT-Smart%20System-orange?style=for-the-badge)
-![Patent](https://img.shields.io/badge/Patent-Published-red?style=for-the-badge)
-![IEEE](https://img.shields.io/badge/IEEE-Paper%20Accepted-purple?style=for-the-badge)
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZnYnJqN3A0NGQxM2R0bWRsbnR4eXZ2eXB1eWJkM2pnN2J2Nm9mNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500"/>
 
 ## 🚀 Intelligent Assistive Mobility System
 
@@ -172,12 +164,3 @@ Application No: 202541085782
 
 ---
 
-
-
-<div align="center">
-
-## ❤️ Empowering Mobility Through Embedded Innovation
-
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
-
-</div>
