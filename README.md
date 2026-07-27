@@ -96,23 +96,7 @@ Offline Voice Recognition
 Sensor Fusion
 ```
 
----
 
-# 📂 Project Structure
-
-```bash
-Internet-Independent-Smart-Wheelchair/
-│
-├── Arduino_UNO/
-├── ESP32_Controller/
-├── Voice_Module/
-├── Images/
-├── Documentation/
-├── Libraries_Required/
-└── README.md
-```
-
----
 
 # 🔌 System Architecture
 
